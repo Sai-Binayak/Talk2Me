@@ -16,4 +16,4 @@ export default router
 
 
 
-// all the logic are in controllers, to simplify routes
+// all the logics are in controllers, to simplify routes

@@ -1,5 +1,6 @@
 // all server logics are here
 
+// for auth we need to connect to database
 export const signup = (req, res) => {
     res.send("Signup route")
 }
