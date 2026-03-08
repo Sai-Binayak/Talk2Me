@@ -1,4 +1,4 @@
-# HelpMe - Chat Application 
+# Talk2Me - Chat Application 
 
 ## Backend
 
