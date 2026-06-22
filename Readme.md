@@ -63,12 +63,12 @@ Start the development server using:
 ```
 npm run dev
 ```
-
+<!-- 
 Or run normally with:
 
 ```
 node server.js
-```
+``` -->
 
 The server will start on:
 

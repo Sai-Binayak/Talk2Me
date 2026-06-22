@@ -7,7 +7,9 @@ import {connectDB} from "./lib/db.lib.js"   // connection to mongodb
 const app = express()   // creating an instance of express application
 
 dotenv.config()         // getting all the paths from .env file
-const PORT = process.env.PORT
+const PORT = process.env.
+
+app.use(express.json())
 
 app.use("/api/auth", authRoutes)   // adds middleware/route handlers to express app
 
